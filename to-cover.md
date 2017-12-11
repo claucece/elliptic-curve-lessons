@@ -2,9 +2,12 @@
 
 1. Introduction
 2. Introduction to elliptic curves
-3. The group law, Weierstrass and Edwards equations
-4. Finite fields and integer arithmetic
-5. Isogenies
-6. Isogeny kernels and polynomials
+3. Rational points and fields
+4. The group law, Weierstrass and Edwards equations
+5. Finite fields and integer arithmetic
+6. Isogenies
+7. Isogeny kernels and polynomials
+8. Bit arithmetic
+9. Scalar and point arithmetic
 
 
